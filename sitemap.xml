@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/2014/09/creating-a-new-theme/</loc>
+    <loc>//example.org/2014/09/creating-a-new-theme.html</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/03/migrate-to-hugo-from-tom/</loc>
+    <loc>//example.org/2014/03/migrate-to-hugo-from-tom.html</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>//example.org/2014/03/migrate-to-hugo-from-jekyll.html</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>//example.org/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>//example.org/posts.html</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/04/hugo-template-primer/</loc>
+    <loc>//example.org/2014/04/hugo-template-primer.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>//example.org/categories.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/development/</loc>
+    <loc>//example.org/categories/development.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/development/</loc>
+    <loc>//example.org/tags/development.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/04/getting-started-with-hugo/</loc>
+    <loc>//example.org/2014/04/getting-started-with-hugo.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/go/</loc>
+    <loc>//example.org/tags/go.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/golang/</loc>
+    <loc>//example.org/tags/golang.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/golang/</loc>
+    <loc>//example.org/categories/golang.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>//example.org/tags/hugo.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>//example.org/tags.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/templates/</loc>
+    <loc>//example.org/tags/templates.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/themes/</loc>
+    <loc>//example.org/tags/themes.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
